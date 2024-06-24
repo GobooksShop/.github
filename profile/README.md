@@ -29,15 +29,15 @@
 
 
 
-
 # 📚 STACKS
 [![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)](#)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=spring)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)](#)
 [![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)](#)
 [![Material UI](https://img.shields.io/badge/MUI-teal?style=for-the-badge&logo=material-ui)](#)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-cyan?style=for-the-badge&logo=tailwind-css)](#)
 [![Zustand](https://img.shields.io/badge/Zustand-yellow?style=for-the-badge)](#)
+[![docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
 
 
 ## Project Duration & Team
